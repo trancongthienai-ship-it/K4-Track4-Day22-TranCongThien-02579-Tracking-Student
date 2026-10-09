@@ -1,5 +1,9 @@
 lab_data/
+data_lab21/
 runs/
+!runs/nop_bai/
+runs/nop_bai/*.mp4
+runs/nop_bai/*.log
 TrackEval/
 *.pt
 __pycache__/
